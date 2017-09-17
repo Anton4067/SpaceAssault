@@ -32,6 +32,16 @@ canvas {
     color: white;
     font-size: 2em;
 }
+#level {
+    float: left;
+    color: white;
+    font-size: 2em;
+}
+#labellevel {
+    float: left;
+    color: white;
+    font-size: 2em;
+}
 
 .key {
     color: #aaffdd;
