@@ -17,8 +17,7 @@
             key = 'RIGHT'; break;
         case 40:
             key = 'DOWN'; break;
-        default:
-         
+        default:           
             key = String.fromCharCode(code);
         }
 
