@@ -28,24 +28,49 @@ canvas {
 }
 
 #score {
-    float: right;
-    color: white;
-    font-size: 2em;
-}
-#level {
-    float: left;
-    color: white;
-    font-size: 2em;
-}
-#labellevel {
-    float: left;
+   
     color: white;
     font-size: 2em;
 }
 
+
+
 .key {
     color: #aaffdd;
 }
+
+
+#level {
+    
+    color: white;
+    font-size: 2em;
+}
+#label {
+    float: left;
+    color: white;
+    font-size: 2em;
+    padding-right:20px;
+}
+
+#mannascore {
+    
+    color: white;
+    font-size: 2em;
+}
+#score {
+   
+    color: white;
+    font-size: 2em;
+}
+
+
+
+.item {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color: white;    
+}
+
 
 #game-over, #game-over-overlay {
     margin: auto;
