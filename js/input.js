@@ -17,7 +17,8 @@
             key = 'RIGHT'; break;
         case 40:
             key = 'DOWN'; break;
-        default:           
+        default:
+            // Convert ASCII codes to letters
             key = String.fromCharCode(code);
         }
 
